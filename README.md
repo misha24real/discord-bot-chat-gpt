@@ -16,7 +16,7 @@
 <p>4 apt install python3-pip</p>
 <p>если вы с виндовс то нужно скачать питон с официального с сайта а если вы с виндовс 10 то питон можно скачать с microsoft store все сыллки будут в конце</p>
 <p>открывайте cmd или ssh касоль вдс сервера и пишите</p>
-<p>5 pip install discord.py</p>
+```pip install discord.py
 <p>6 pip install openai</p>
 <p>7 каманда запуска (cmd и ssh кансоль) python3 discordbotchatgpt.py это для (ssh кансоль) для cmd python discordbotchatgpt.py</p>
 <p>вот все сылки</p>
