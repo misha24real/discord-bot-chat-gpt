@@ -23,18 +23,8 @@
 <p>главное чтобы ВЫ были заригистрированы в openai.com</p>
 <p>1 https://platform.openai.com/account/api-keys</p>
 <p>2 https://www.python.org/downloads/release/python-3114/</p>
-
-
-
-
-
-
-
-ребята если вы хотите подержать меня денюжкой для продвижении моих проэктов я оствлю ссылку на данаты
-сылка на донат: https://stonks.boats/WLEYLD
-сылка на донат 2: https://fortnitechat.site/V8WKW6
-
-прочии ссылки
-сылка на тг бот: https://noodshare.pics/3SQB89   (тоже gpt)
-сылка на дс сервер: https://shipment.website/K1O6HO (мой)
-сылка на дс бота: https://joinmy.site/38J49R   (тот самый gpt бот)
+<p> </p>
+<p> </p>
+<p> </p>
+<p>ребята если вы хотите подержать меня денюжкой для продвижении моих проэктов я оствлю ссылку на данаты</p>
+<p>сылка на донат: https://donate.qiwi.com/payin/misha24real</p>
